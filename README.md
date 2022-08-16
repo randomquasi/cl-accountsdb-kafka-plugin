@@ -1,4 +1,11 @@
+# Source
+
+This is a forked version of the repo https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka  Thanks to https://github.com/terorie
+
+
+
 # ConciseLabs AccountsDB Plugin for Kafka
+
 
 Kafka publisher for use with Solana's [plugin framework](https://docs.solana.com/developing/plugins/geyser-plugins).
 
